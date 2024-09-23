@@ -33,28 +33,28 @@
 ![Data in file.png](src%2Fimages%2FData%20in%20file.png)
 
 ## Успешная запись (кириллица/латиница)
-![](src/images/Successful recording.png)
+![Successful recording.png](src%2Fimages%2FSuccessful%20recording.png)
 
-![](src/images/Successful recording_2.png)
+![Successful recording_2.png](src%2Fimages%2FSuccessful%20recording_2.png)
 
 ## Успешная запись данных, введенных в произвольном порядке
-![](src/images/Successfully wrote random input order.png)
+![Successfully wrote random input order.png](src%2Fimages%2FSuccessfully%20wrote%20random%20input%20order.png)
 
 ## Обработка введенных данных по количеству
-![](src/images/Incomplete data.png)
+![Incomplete data.png](src%2Fimages%2FIncomplete%20data.png)
 
-![](src/images/Extra data.png)
+![Extra data.png](src%2Fimages%2FExtra%20data.png)
 
 ## Обработка Ф.И.О.
-![](src/images/Name verification.png)
+![Name verification.png](src%2Fimages%2FName%20verification.png)
 
 ## Обработка даты рождения
-![](src/images/Date of birth verification.png)
+![Date of birth verification.png](src%2Fimages%2FDate%20of%20birth%20verification.png)
 
-![](src/images/Date of birth verification 2.png)
+![Date of birth verification 2.png](src%2Fimages%2FDate%20of%20birth%20verification%202.png)
 
 ## Обработка номера телефона
-![](src/images/Phone verification.png)
+![Phone verification.png](src%2Fimages%2FPhone%20verification.png)
 
 ## Обработка пола
-![](src/images/Gender verification.png)
+![Gender verification.png](src%2Fimages%2FGender%20verification.png)
