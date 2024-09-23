@@ -30,7 +30,7 @@
 # Демонстрация решения:
 
 ## Данные, записанные в файл
-![](src/images/Data in file.png)
+![Data in file.png](src%2Fimages%2FData%20in%20file.png)
 
 ## Успешная запись (кириллица/латиница)
 ![](src/images/Successful recording.png)
